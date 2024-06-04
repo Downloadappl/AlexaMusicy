@@ -25,7 +25,7 @@
       },
       "BOT_TOKEN": {
         "description": "توكن البوت حبببي",
-        "value": "",
+        "value": "6841212935:AAET-ECbi2t-XeUoePfrmROECfAEv2iU9Qg",
         "required": true
       },
       "START_IMG_URL": {
@@ -50,7 +50,7 @@
       },
       "STRING_SESSION": {
         "description": "جلسه بايروجرام واحد فقط",
-        "value": "",
+        "value": "BAEmsLsAZ6je2RjQNHpaQGk6rdrVBBzZl0_kzzPTT7Ej15nTz8pjMYRbue2U6QJFugoRs-NRZWouSy9I-dk4koGk3hRmep4I3A8pXvsRiDGcvRMLgtFjnJaDVuDQi_CYUo8KHpG1qYIBD1AFkqdJDgltW1fJZPqgYVjh5oKRtGc9gPPqklzv0pVPB6gbuYJplLSDQPTrqwbsVSCp1HRSYMfhgq9FniVpYTO9ktPe03w_vpgoOmwJP_iFsGeqTuWvhH5vVqX6SOwyoI0Z6_Y__Bpzs_DWTu2KdB8F_ERNDGZ4nYFxzoEQmr0ffcWWnZ8lR9h1DEyRGmdKeqFft2jIZoA9jmRcRgAAAAGWUfGiAA",
         "required": true
       },
       "HEROKU_API_KEY": {
