@@ -457,10 +457,7 @@ async def maintenance_on():
     return await onoffdb.insert_one({"on_off": 1})
 
 
-# Audio Video Limit
-
-
-from pytgcalls.types import AudioQuality, VideoQuality
+# Audio Video Lim
 from pytgcalls.types.raw import AudioParameters, VideoParameters
 
 
